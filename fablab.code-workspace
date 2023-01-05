@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../fablab"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
