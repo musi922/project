@@ -52,3 +52,8 @@ function closenavlinks(){
     navlinks.classList.remove("open-navlinks")
 }
 
+
+
+
+
+
